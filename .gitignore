@@ -1,0 +1,8 @@
+# Ignore all .log files
+*.log
+
+# Ignore the "temp" folder
+# Ignore Python virtual environment in Backend
+Handloom_Hackathon/Backend/venv/
+# Ignore node_modules in frontend
+Handloom_Hackathon/frontend/node_modules/
